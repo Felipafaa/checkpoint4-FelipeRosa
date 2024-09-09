@@ -14,7 +14,7 @@ const TextoHome = styled.h1`
   margin: 0; 
   font-family: Arial, Helvetica, sans-serif ;
 `;
-
+//oi professor ubirajara!
 const Home: React.FC = () => {
   return (
     <Container>
